@@ -5,6 +5,6 @@ namespace XamAppCenterSample2018
     public static class Variables
     {
         // NOTE: Replace this example key with a valid subscription key.
-        public static readonly string ApiKey = "キーを入力してください";
+        public static readonly string ApiKey = "Write Your Key";
     }
 }
